@@ -10,6 +10,7 @@ public class AlstromAppApplication {
 		SpringApplication.run(AlstromAppApplication.class, args);
 		System.out.println("Alstrom app created");
 		System.out.println("Alstrom app updated");
+		System.out.println("Checking Build");
 	}
 
 }
